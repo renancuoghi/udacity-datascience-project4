@@ -11,8 +11,6 @@ The final solution is implemented in the starter notebook with preprocessing, NL
 
 - `starter/starter.ipynb`: Completed notebook with full pipeline workflow and results.
 - `starter/data/reviews.csv`: Input dataset used by the notebook.
-- `instructions/overview.md`: Project scenario and task requirements.
-- `instructions/rubric.md`: Rubric used to evaluate project quality.
 - `requirements.txt`: Python dependencies.
 
 ## Getting Started
